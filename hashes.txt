@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Pasión apagada
+
+This log tracks the cryptographic history and versioning for the song **Pasión apagada** (pasion-apagada).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-19T23:58:04.972634 | `v1` | `23dd8d6d30fe2386e9e5044150b912d72a56087850a586f49b93764b060480c4` | `a5d3d9dcb6bab099b29a681e159c478d5f7bc2ea3d0cf75cafd3ff3370c64a07` | `2026-06-19_pasion-apagada-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
