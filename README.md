@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pasion-apagada/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Pasión apagada](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-apagada/) |
+| **Get License** | [Commercial Licensing for Pasión apagada](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-apagada/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Late night burning like a spark that never fades
+> Your silhouette is dancing through the city lights and shades
+> I'm chasing every whisper that your body betrays
+> This pasión apagada keeps me calling out your name
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
